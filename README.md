@@ -1,4 +1,4 @@
-# Assisted-Physics-XR-Controller-Hybrid
+# Assisted-Physics-XR-Rig-Hybrid
 This project solves a problem with Valem's Physics XR Rig, in that non physics-driven objects do not influence the XR Rig. This is apparent when the player stands on a moving platform and is not moved (the moving platform using transform.position = ...).
 
 Built on top of Valem's 4-part Tutorial: [https://youtu.be/gk0EBIe6ZN8?si=_o5zsPqcQE3CDGwQ](https://youtu.be/gk0EBIe6ZN8?si=_o5zsPqcQE3CDGwQ)
