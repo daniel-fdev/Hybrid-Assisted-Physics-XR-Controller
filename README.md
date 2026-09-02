@@ -13,6 +13,8 @@ Using Spline-Trains with Configurable Joint Couplers by Paridot: [https://youtu.
   - The preserving of position and rotation relative to the moving platform
   - Mobility on the moving platform
 
+<img width="638" height="344" alt="PlatformStickVRPhysicsRig-ezgif com-optimize" src="https://github.com/user-attachments/assets/8a8ba1ea-755c-42b1-b289-c016bf560a78" />
+
 ## Limitations: 
   - exceeding very fast speeds can cause the player to be unable to stay on the platform
 
